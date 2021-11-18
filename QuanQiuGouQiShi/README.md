@@ -18,7 +18,7 @@
 ##### [rewrite_local]
 + https://pyp-api.chuxingyouhui.com/api/app/userCenter/v1/info url script-request-header https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js
 + https://market.chuxingyouhui.com/promo-bargain-api/activity/mqq/api/indexTopInfo? url script-request-header https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js
-+ [MITM]
+##### [MITM]
 hostname = *.chuxingyouhui.com
 
 # 收集来源
