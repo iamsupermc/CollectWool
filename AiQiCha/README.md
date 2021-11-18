@@ -11,7 +11,7 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/AiQiCh
 # 抓包
 alook浏览器访问：https://passport.baidu.com/v2/?login
 登陆后获取Cookie
-才cookie中找到：BDUSS=xxxxx;;
+在cookie中找到：“BDUSS=xxxxx;”
 
 青龙配置：
 export aqcCookies="BDUSS=xxxxx;"
