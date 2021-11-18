@@ -1,6 +1,5 @@
 # 爱妻查
-青龙拉取命令
-源库：
+青龙拉取命令(源库)：
 ```
 ql raw https://github.com/WindFgg/QuantumultX_Conf/blob/main/Scripts/aiqicha.js
 ```
