@@ -3,8 +3,8 @@
 ## 仓库项目目录及说明
 | 项目名称 | 脚本       | 状态 | 食用说明 |
 | -------- | -------------- | ---------- |---------- |
-| 爱沏茶 | [aiqicha.js](https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/AiQiCha/aiqicha.js) | 正常 | [qing long](https://github.com/CollectWoolTeam/CollectWool/blob/main/AiQiCha/README.md) |
-| 歧视卡 | [qishika.js](https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js) | 正常 | [圈X v2p](https://github.com/CollectWoolTeam/CollectWool/blob/main/QuanQiuGouQiShi/README.md) |
+| 爱沏茶 | [aiqicha.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/AiQiCha) | 正常 | [qing long](https://github.com/CollectWoolTeam/CollectWool/blob/main/AiQiCha/README.md) |
+| 歧视卡 | [qishika.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QuanQiuGouQiShi) | 正常 | [圈X v2p](https://github.com/CollectWoolTeam/CollectWool/blob/main/QuanQiuGouQiShi/README.md) |
 
 
 ## 免责声明: 
