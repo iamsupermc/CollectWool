@@ -1,5 +1,5 @@
 /*
-0 0,30 8 * * ? https://ghproxy.com/github.com/WindFgg/QuantumultX_Conf/blob/main/Scripts/aiqicha.js 爱企查日常任务
+0 0,30 8 * * ? https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/AiQiCha/aiqicha.js 爱企查日常任务
  爱企查下载地址：https://aiqicha.baidu.com/m/usercenter/inviteCode?uid=xlTM-TogKuTwvdzTq9EFdGvdxrmJpAANFgmd
 
  手动抓取CK:https://passport.baidu.com/v2/?login 一个BDUSS=xxxxx;就行了
