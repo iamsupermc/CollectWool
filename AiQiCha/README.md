@@ -3,9 +3,11 @@
 源库：
 ```
 ql raw https://github.com/WindFgg/QuantumultX_Conf/blob/main/Scripts/aiqicha.js
+```
 本库：
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/AiQiCha/aiqicha.js
+```
 
 # 抓包
 alook浏览器访问：https://passport.baidu.com/v2/?login
