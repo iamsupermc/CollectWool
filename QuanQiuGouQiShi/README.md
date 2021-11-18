@@ -14,12 +14,12 @@
 #### V2P，圈X：重写方法 -- 点击右下角【我的】-> 【每日签到赚现金】
 #### **[task_local]**
 #全球购骑士特权
-+ 0 * * * * https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js, tag=全球购骑士特权, enabled=true
++ `0 * * * * https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js, tag=全球购骑士特权, enabled=true`
 #### **[rewrite_local]**
 + `https://pyp-api.chuxingyouhui.com/api/app/userCenter/v1/info url script-request-header https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js`
 + `https://market.chuxingyouhui.com/promo-bargain-api/activity/mqq/api/indexTopInfo? url script-request-header https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js`
 #### **[MITM]**
-hostname = *.chuxingyouhui.com
+`hostname = *.chuxingyouhui.com`
 
 ## 收集来源
 https://github.com/leafxcy/JavaScript/blob/main/blackUnique.js
