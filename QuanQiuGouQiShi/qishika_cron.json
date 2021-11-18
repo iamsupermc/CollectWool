@@ -1,0 +1,18 @@
+{
+  "name": "全球购骑士特权定时任务订阅",
+  "desc": "无",
+  "date": "2021-08-05 20:32:08",
+  "author": "CollectWoolTeam",
+  "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika_cron.json",
+  "list": [
+    {
+      "name": "全球购骑士特权",
+      "type": "cron",
+      "time": "0 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js"
+      }
+    }
+  ]
+}
