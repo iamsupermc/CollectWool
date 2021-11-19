@@ -5,45 +5,45 @@
   "rewrite": [
     {
       "match": "https://ant.xunsl.com/v5/article/info.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jcwz.js",
       "enable": true
     },
     {
       "match": "https://ant.xunsl.com/v5/article/detail.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jcwz.js",
       "enable": true
     },
     {
       "match": "https://ant.xunsl.com/v5/nameless/adlickstart.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jckkz.js",
       "enable": true
     }, 
     {
       "match": "https://ant.xunsl.com/v5/CommonReward/toGetReward.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcqd.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jcqd.js",
       "enable": true
     },
     {
       "match": "https://ant.xunsl.com/v5/CommonReward/toGetReward.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcbox.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jcbox.js",
       "enable": true
     }
     ,
     {
       "match": "https://ant.xunsl.com/v5/user/stay.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jcwz.js",
       "enable": true
     }
     ,
     {
       "match": "https://ant.xunsl.com/v5/wechat/withdraw2.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_withdraw.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jc_withdraw.js",
       "enable": true
     }
     ,
     {
       "match": "https://ant.xunsl.com/v17/NewTask/getTaskList.json",
-      "target": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_today_score.js",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jc_today_score.js",
       "enable": true
     }
   ]
