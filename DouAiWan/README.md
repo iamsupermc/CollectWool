@@ -14,7 +14,7 @@ export dawck:
 #### 圈X重写配置如下:  
 **[rewrite_local]**  
 #都爱玩  
-`https://v3.sdk.haowusong.com/api/box/wallet/info 重写地址 https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`  
+`https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`  
   
 **[MITM]**  
 `hostname = v3.sdk.haowusong.com`  
