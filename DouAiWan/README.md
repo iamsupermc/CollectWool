@@ -21,7 +21,8 @@ https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://r
 ```
   
 **[MITM]**  
-```hostname = v3.sdk.haowusong.com
+```
+hostname = v3.sdk.haowusong.com
 ```  
   
 **[rewrite_local]**  
