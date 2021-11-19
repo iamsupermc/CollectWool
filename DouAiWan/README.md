@@ -3,7 +3,9 @@
 #### 签到，转盘抽奖获得积分，转盘游戏，看广告获得分红币,分红模式,不需要实名 ---目前提现秒到
 
 脚本下载：  
-`https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`
+```
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js
+```
 
 #### 青龙必要变量:  
 export dawck: 
@@ -14,13 +16,18 @@ export dawck:
 #### 圈X重写配置如下:  
 **[rewrite_local]**  
 #都爱玩  
-`https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`  
+```
+https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`
+```
   
 **[MITM]**  
-`hostname = v3.sdk.haowusong.com`  
+```hostname = v3.sdk.haowusong.com
+```  
   
 **[rewrite_local]**  
-`0 * * * * https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js, tag=都爱玩, enabled=true`
+```
+0 * * * * https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js, tag=都爱玩, enabled=true
+```
 
 
 ## 收集来源
