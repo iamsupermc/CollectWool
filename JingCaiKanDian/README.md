@@ -9,8 +9,8 @@
 ```
 #### 本库：
 ```
-重写：
-任务：
+重写：https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jckd-rewrite.json
+任务：https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jckd-cron.json
 ```
 
 ## 抓包
