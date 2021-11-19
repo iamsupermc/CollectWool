@@ -37,21 +37,14 @@ https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDia
 
 #### 青龙配置：
 晶彩看点青龙填写config.sh的示例：
-###### 1.文章,视频：wzbody（填写示例：export wzbody="p=xxx&p=xxx"）
-   对应url：https://ant.xunsl.com/v5/article/info.json，https://ant.xunsl.com/v5/article/detail.json
-###### 2.看看赚：lookStartbody（填写示例：export lookStartbody="p=xxx&p=xxx"）
-   对应url：https://ant.xunsl.com/v5/nameless/adlickstart.json
-###### 3.每日任务奖励领取：jcboxbody（填写示例：export jcboxbody="p=xxx&p=xxx"）
-    对应url：https://ant.xunsl.com/v5/CommonReward/toGetReward.json（注意看响应是否为任务奖励）
-###### 4.签到：qdbody（填写示例：export qdbody="p=xxx&p=xxx"）
-    对应url：https://ant.xunsl.com/v5/CommonReward/toGetReward.json（注意看响应是否为签到奖励）
-###### 5.文章时长：jc_timebody（填写示例：export jc_timebody="p=xxx&p=xxx"）
-   对应url：https://ant.xunsl.com/v5/user/stay.json
-###### 6.提现：jc_withdraw（填写示例：export jc_withdraw="p=xxx@p=xxx"）
-    对应url：https://ant.xunsl.com/v5/wechat/withdraw2.json
-              jc_cash(无需抓包，属于个人设置)（填写示例：export jc_cash="0.3"或export jc_cash="30"）
-###### 7. 晶彩cookie：jc_cookie （填写示例：export jc_cookie="zqkey=xxx&zqkey_id=xxx&uid=xxx@zqkey=xxx&zqkey_id=xxx&uid=xxx"）
-    对应url：https://ant.xunsl.com/v17/NewTask/getTaskList.json
+###### 1.文章,视频：wzbody（填写示例：export wzbody="p=xxx&p=xxx"）对应url：https://ant.xunsl.com/v5/article/info.json，https://ant.xunsl.com/v5/article/detail.json
+###### 2.看看赚：lookStartbody（填写示例：export lookStartbody="p=xxx&p=xxx"）对应url：https://ant.xunsl.com/v5/nameless/adlickstart.json
+###### 3.每日任务奖励领取：jcboxbody（填写示例：export jcboxbody="p=xxx&p=xxx"）对应url：https://ant.xunsl.com/v5/CommonReward/toGetReward.json（注意看响应是否为任务奖励）
+###### 4.签到：qdbody（填写示例：export qdbody="p=xxx&p=xxx"）对应url：https://ant.xunsl.com/v5/CommonReward/toGetReward.json（注意看响应是否为签到奖励）
+###### 5.文章时长：jc_timebody（填写示例：export jc_timebody="p=xxx&p=xxx"）对应url：https://ant.xunsl.com/v5/user/stay.json
+###### 6.提现：jc_withdraw（填写示例：export jc_withdraw="p=xxx@p=xxx"）对应url：https://ant.xunsl.com/v5/wechat/withdraw2.json
+######   jc_cash(无需抓包，属于个人设置)（填写示例：export jc_cash="0.3"或export jc_cash="30"）
+###### 7. 晶彩cookie：jc_cookie （填写示例：export jc_cookie="zqkey=xxx&zqkey_id=xxx&uid=xxx@zqkey=xxx&zqkey_id=xxx&uid=xxx"）对应url：https://ant.xunsl.com/v17/NewTask/getTaskList.json
 
 ## 其他说明：
  
