@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDia
 #### elecV2p
 ###### 1.阅读文章，看视频jcwz.js：进入app点击文章、视频获取body（200条左右别太多，建议点击文章后下拉最后切换第二条）（wzbody）需要抓取一次文章时长（jc_timebody），获取一次文章界面金币即可
 ###### 2.签到jcqd.js：进入app点击签到，显示增加金币，则获取body成功（qdbody）
-###### 3.看看赚jckkz.js：点击看看赚某一任务获取body（lookStartbody）
+###### 3.看看赚jckkz.js：点击看看赚某一任务获取body，点击去完成跳网页后直接返回获取下一个（lookStartbody）
 ###### 4.任务宝箱领取jcbox.js：app下方点击赚钱图标，在每日任务中点击所有可领取的奖励，获取body，明天再跑一次脚本试试(jcboxbody)
 ###### 5.每天收益jc_today_score.js：有重写就行(jc_cookie)
 ###### 6.火爆转发jc_share.js：有重写就行(jc_cookie)
