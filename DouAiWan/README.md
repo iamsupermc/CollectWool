@@ -2,7 +2,8 @@
 
 #### 签到，转盘抽奖获得积分，转盘游戏，看广告获得分红币,分红模式,不需要实名 ---目前提现秒到
 
-脚本下载：`https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`
+脚本下载：
+`https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`
 
 #### 青龙必要变量: 
 export dawck: 
