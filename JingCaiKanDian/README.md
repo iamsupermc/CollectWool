@@ -1,4 +1,4 @@
-## 晶彩看点
+## 精彩看店
 #### 下载地址
 应用宝：https://a.app.qq.com/o/simple.jsp?pkgname=com.ldzs.zhangxin&g_f=1000047
 
@@ -50,3 +50,6 @@ https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDia
 
 ## 来源
 https://github.com/shaolin-kongfu/js_scripts
+
+## TODO
+整合https://raw.githubusercontent.com/liuqi6968/-/main/Jc_5_60.js
