@@ -1,0 +1,12 @@
+{
+  "name": "晶彩重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["ant.xunsl.com"],
+  "rewrite": [
+    {
+      "match": "https://api.st615.com/v1/user/info?",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jztt.js",
+      "enable": true
+    }
+  ]
+}
