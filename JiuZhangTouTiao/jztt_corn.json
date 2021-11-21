@@ -6,7 +6,7 @@
   "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jztt_corn.json",
   "list": [
     {
-      "name": "九章阅读",
+      "name": "九章头条阅读",
       "type": "cron",
       "time": "0/15 8-18 * * *",
       "job": {
