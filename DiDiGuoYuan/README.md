@@ -5,7 +5,7 @@
 #### ddgyurl
 搜索：https://game.xiaojukeji.com/api/game/plant/enter?wsgsig=XXXXX
 #### ddgyheader
-上面链接的**headers**里的**D-Header-T**
+上面链接**headers**里的**D-Header-T**
 
 ## 青龙
 拉取ddgyCOOKIE.js 和 ddgy.js
