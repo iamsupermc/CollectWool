@@ -12,8 +12,9 @@
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DiDiGuoYuan/ddgy.js
 ```
+#### 此文件需要指定文件名为：ddgyCOOKIE.js（不可变）
 ```
-ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DiDiGuoYuan/ddgyCOOKIE.js
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DiDiGuoYuan/ddgyCOOKIE.js
 ```
 将抓包内容（**ddgyurl**和**ddgyheader**）填入**ddgyCOOKIE.js** 对应的**val**值里面
 
