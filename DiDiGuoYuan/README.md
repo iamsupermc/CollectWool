@@ -15,10 +15,10 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DiDiGu
 ```
 https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DiDiGuoYuan/ddgyCOOKIE.js
 ```
-将抓包内容（ddgyurl 和 ddgyheader）填入ddgyCOOKIE.js 对应的val值里面
+将抓包内容（**ddgyurl**和**ddgyheader**）填入**ddgyCOOKIE.js** 对应的**val**值里面
 
 ## 来源
 https://github.com/xl2101200/-/blob/main/ddgy.js
 
 ## 特别鸣谢
-[xl2101200](https://github.com/xl2101200)
+**作者：**[xl2101200](https://github.com/xl2101200)
