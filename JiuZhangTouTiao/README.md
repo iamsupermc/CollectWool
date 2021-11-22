@@ -12,6 +12,10 @@ jztt.js+jzttCookie.js
 export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'
 自行抓包替换 关键字为token 抓包的token
 提现变量为cashtx
+'''
+export jzreadurl='https://api.st615.com/v1/user/info?token=XXX@https://api.st615.com/v1/user/info?token=XXX'
+export cashtx=''
+'''
 
 ## 下载 
 APP STORE： 九章头条（仅支持IOS）
