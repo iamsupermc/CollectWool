@@ -17,6 +17,11 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DiDiGu
 ```
 将抓包内容（**ddgyurl**和**ddgyheader**）填入**ddgyCOOKIE.js** 对应的**val**值里面
 
+### 定时
+```
+10 8,12,18 * * * 
+```
+
 ## 来源
 https://github.com/xl2101200/-/blob/main/ddgy.js
 
