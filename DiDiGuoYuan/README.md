@@ -1,0 +1,15 @@
+## 弟弟果园
+#### 入口：威信-小程序-didichuxing(中文)-5天种水果（中间）
+
+## 抓包
+#### ddgyurl
+搜索：https://game.xiaojukeji.com/api/game/plant/enter?wsgsig=
+#### ddgyheader
+上面链接的headers 里的 D-Header-T
+
+## 青龙
+拉取ddgyCOOKIE.js 和 ddgy.js
+将抓包内容填入ddgyCOOKIE.js
+
+## 来源
+https://github.com/xl2101200/-/blob/main/ddgy.js
