@@ -13,11 +13,11 @@ https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.
 ```
 
 #### 青龙必要变量:  
+抓包头：https://v3.sdk.haowusong.com/api/box/wallet/info 链接里的token
+**多个号用 @ 或 换行 隔开 **
+```
 export dawck: 
-
-#### 抓包时的请求头上的token 
-多个号用 @ 或 换行 隔开 
- 
+```
 #### 圈X重写配置如下:  
 **[rewrite_local]**  
 #都爱玩  
