@@ -3,13 +3,13 @@
 
 ## 抓包
 #### ddgyurl
-搜索：https://game.xiaojukeji.com/api/game/plant/enter?wsgsig=
+搜索：https://game.xiaojukeji.com/api/game/plant/enter?wsgsig=XXXXX
 #### ddgyheader
 上面链接的headers 里的 D-Header-T
 
 ## 青龙
 拉取ddgyCOOKIE.js 和 ddgy.js
-将抓包内容填入ddgyCOOKIE.js
+将抓包内容（ddgyurl 和 ddgyheader）填入ddgyCOOKIE.js 对应的val值里面
 
 ## 来源
 https://github.com/xl2101200/-/blob/main/ddgy.js
