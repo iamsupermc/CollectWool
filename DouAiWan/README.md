@@ -9,7 +9,7 @@
 
 **脚本下载：**  
 ```
-https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js
 ```
 
 #### 青龙必要变量:  
