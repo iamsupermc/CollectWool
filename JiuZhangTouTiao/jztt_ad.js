@@ -19,14 +19,15 @@ cron "*/10 8-20 * * *" script-path=jztt_ad.js,img-url=https://raw.githubusercont
 九章头条刷广告 = type=cron,script-path=jd_bean_change.js, cronexpr="*/10 8-20 * * *", timeout=3600, enable=true
  */
 
-let jzttapp = [
-    { "token": "" },
-    { "token": "" }
-]
+let jzttapp
 if (process.env.JZTT_Token) {
     jzttapp = process.env.JZTT_Token
 } else {
     console.log(`请设置环境变量 [JZTT_Token] 单位毫秒 export JZTT_Token='[{},{}]');
+}
+if(jzttapp == null){
+    console.log(`请设置环境变量 [JZTT_Token] 单位毫秒 export JZTT_Token='[{},{}]');
+    return
 }
 
 
