@@ -15,8 +15,11 @@ export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'
 自行抓包替换 关键字为token 抓包的token
 提现变量为cashtx
 
-###### 拉取：ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jzread.js
-###### 参数：
+##### 脚本拉取：
+```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jzread.js
+```
+##### 参数：
 ```
 export jzreadurl='https://api.st615.com/v1/user/info?token=XXX@https://api.st615.com/v1/user/info?token=XXX'
 export cashtx=''
