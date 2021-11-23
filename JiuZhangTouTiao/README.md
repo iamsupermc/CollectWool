@@ -19,7 +19,7 @@ export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jzread.js
 ```
-##### 参数：
+##### 变量参数：
 ```
 export jzreadurl='https://api.st615.com/v1/user/info?token=XXX@https://api.st615.com/v1/user/info?token=XXX'
 export cashtx=''
