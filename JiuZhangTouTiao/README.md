@@ -6,7 +6,7 @@
 ## 青龙使用 
 定时corn : */60 * * * * (1小时运行一次)
 #### TOM jztt.js
-##### 拉取：
+#### 拉取：
 jztt.js+jzttCookie.js
 
 #### 柠檬jzread.js
