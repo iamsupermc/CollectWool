@@ -7,7 +7,10 @@
 定时corn : */60 * * * * (1小时运行一次)
 #### TOM jztt.js
 #### 拉取：
-jztt.js+jzttCookie.js
+jztt.js  
+jzttCookie.js
+### **注意：**  
+jzttCookie.js脚本名称不能改变，拉取的需要自行更改名称；也可在青龙面板脚本管理界面右上角点击+号键新增脚本，粘贴次脚本内容，修改名称。
 
 #### 柠檬jzread.js
 **说明：** 变量为jzreadurl多账号用@隔开  
