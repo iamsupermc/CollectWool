@@ -10,8 +10,8 @@
 jztt.js+jzttCookie.js
 
 #### 柠檬jzread.js
-说明：变量为jzreadurl多账号用@隔开  
-export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'
+**说明：** 变量为jzreadurl多账号用@隔开  
+export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'  
 自行抓包替换 关键字为token 抓包的token
 提现变量为cashtx
 
