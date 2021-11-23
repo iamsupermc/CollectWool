@@ -15,9 +15,6 @@ if (process.env.JZTT_Token) {
     jzttapp = process.env.JZTT_Token
 } else {
     console.log(`请设置环境变量 [JZTT_Token] 单位毫秒 export JZTT_Token='[{},{}]');
-}
-if(jzttapp == null){
-    console.log(`请设置环境变量 [JZTT_Token] 单位毫秒 export JZTT_Token='[{},{}]');
     return
 }
 
