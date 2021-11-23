@@ -6,8 +6,9 @@
 
 [task_local]
 # 九章头条刷广告
-*/10 8-20 * * * jztt_ad.js, tag=九章头条刷广告 , enabled=true
- */
+0,10,20,30,40,50 8-20 * * * jztt_ad.js, tag=九章头条刷广告 , enabled=true
+
+*/
 
 let jzttapp
 if (process.env.JZTT_Token) {
