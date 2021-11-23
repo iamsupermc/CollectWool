@@ -2,6 +2,16 @@
 
 九章头条刷广告， 5分钟一次/10分钟一次
 使用方法把token放到下面的引号里面，可无限扩展...... 尽量本群内部使用 骚年们 刷起来吧
+[task_local]
+#九章头条刷广告
+*/10 8-20 * * * jztt_ad.js, tag=九章头条刷广告 , enabled=true
+================Loon===============
+[Script]
+cron "*/10 8-20 * * *" script-path=jztt_ad.js, tag=九章头条刷广告
+=============Surge===========
+[Script]
+九章头条刷广告 = type=cron,cronexp="*/10 8-20 * * *",wake-system=1,timeout=3600,script-path=jztt_ad.js
+
 */
 
 let jzttapp = [
