@@ -32,4 +32,4 @@ hostname = *.chuxingyouhui.com
 ## 收集来源
 https://github.com/leafxcy/JavaScript/blob/main/blackUnique.js
 ## 感谢名单
-**[leafxcy]** (https://github.com/leafxcy)
+[leafxcy](https://github.com/leafxcy)
