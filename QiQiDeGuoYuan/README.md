@@ -21,7 +21,7 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDe
 ```
 
 ### 注意
-**挂机后不要手动进入游戏**，因为授权Cookie会失效，每次登录都需要重新抓包。
+**获取运行后不要再手动进入游戏**，因为授权Cookie会失效，每次登录都需要重新抓包。
 
 ## 来源
 https://github.com/LubooC/Script/blob/main/QQDGY/qqdgy.js
