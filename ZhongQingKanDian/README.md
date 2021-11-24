@@ -2,7 +2,7 @@
 
 #### 重写链接:  
 ```
-https://kandian.wkandian.com/V17/Ximalaya/setCompleteSec.json script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_music.js`  
+https://kandian.wkandian.com/V17/Ximalaya/setCompleteSec.json script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_music.js  
 ```
 #### 任务宝箱领取用 少林大佬的  zqbox.js就可以.  
 建议运行时间:  
