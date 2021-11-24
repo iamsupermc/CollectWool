@@ -9,7 +9,7 @@
 #### 青龙：
 **抓包appid地址：** https://market.chuxingyouhui.com/promo-bargain-api/activity/mqq/api/indexTopInfo ，获得 **"appid"**  
 **抓包header地址：** https://pyp-api.chuxingyouhui.com/api/app/userCenter/v1/info ，获得其他，然后填在变量：**blackJSON**里面，注意按照JSON格式填写。用青龙面板的环境变量或者外面用
-双引号的，字符串内需要用”\“转义  
+双引号的，字符串内需要用”\“转义  (在线转义工具：https://www.json.cn/json/jsonzip.html)
 ```
 export blackJSON='{"black-token":"", "token":"", "User-Agent":"", "device-value":"", "device-type":"", "phpUserId":"", "appId":""}'
 ```
