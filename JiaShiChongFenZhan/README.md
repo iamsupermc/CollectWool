@@ -18,8 +18,8 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiaShi
 ```
 0 10-15/1 * * *
 ```
-**此定时为：每天6次，上午10点到下午3点每小时1次**
-**原脚本定时为：每天1次，时间为凌晨4点55分**
+**此定时为：每天6次，上午10点到下午3点每小时1次**  
+**原脚本定时为：每天1次，时间为凌晨4点55分**  
 **可自行观察脚本运行情况，自行调整**
 ## 来源
 https://gitee.com/tom210120/tom/tree/master/JSCFZ
