@@ -18,6 +18,6 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiaShi
 ```
 0 10-15/1 * * *
 ```
-
+**此定时为：每天6次，上午10点到下午3点每小时1次**
 ## 来源
 https://gitee.com/tom210120/tom/tree/master/JSCFZ
