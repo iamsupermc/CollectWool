@@ -11,7 +11,7 @@
 | 弟弟的果园 | [ddgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DiDiGuoYuan) | 正常 | 🐉 |
 | 嘉实宠粉站 | [jscfz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiaShiChongFenZhan) | 正常 | 🐉 |
 | 久章头条 | [jztt.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiuZhangTouTiao) | 正常 | 🐉 |
-| 琪琪的果园 | [qqdgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QiQiDeGuoYuan) | 正常 | 🐉 |
+| 琪琪的果园 | [qqdgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QiQiDeGuoYuan) | 暂不可用 等待修复 | 🐉 |
 | 太太了 | [raw_scripts_ttl.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/TaiTaiLe) | 正常 | 🐉 |
 | 电视家 | [dsj.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DianShiJia) | 正常 | 圈X 🐉 |
 ## 免责声明: 
