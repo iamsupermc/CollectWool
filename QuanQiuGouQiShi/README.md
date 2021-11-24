@@ -13,7 +13,10 @@
 ```
 export blackJSON='{"black-token":"", "token":"", "User-Agent":"", "device-value":"", "device-type":"", "phpUserId":"", "appId":""}'
 ```
-
+#### 拉取脚本
+```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js
+```
 #### V2P、圈X：重写方法 -- 点击右下角【我的】-> 【每日签到赚现金】
 #### **[task_local]**
 #全球购骑士特权
