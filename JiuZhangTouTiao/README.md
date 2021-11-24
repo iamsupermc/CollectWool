@@ -29,7 +29,8 @@ export cashtx=''
 ```
 
 ## 下载 
-APP STORE： 九章头条（仅支持IOS）
+APP STORE： 九章头条
+安卓各大商场自行下载，未测试
 ## 来源
 https://github.com/xl2101200/-/blob/main/jztt.js
 
