@@ -2,7 +2,7 @@
 
 ## 抓包
 抓取连接： https://api.st615.com/v1/user/info?token=XXXXX
-
+九章链接随便一个链接都有token 
 ## 青龙使用 
 定时corn : */60 * * * * (1小时运行一次)
 #### TOM jztt.js
