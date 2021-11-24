@@ -8,6 +8,12 @@
 | 都爱完 | [daw.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DouAiWan) | 正常 | 圈X v2p 青龙|
 | 精彩看店 | [jcwz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JingCaiKanDian) | 正常 | 圈X v2p 青龙 |
 | 中青听歌 | [zq_music.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/ZhongQingKanDian) | 正常 | 圈X v2p |
+| 弟弟的果园 | [ddgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DiDiGuoYuan) | 正常 | 圈X v2p |
+| 嘉实宠粉站 | [jscfz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiaShiChongFenZhan) | 正常 | 圈X v2p |
+| 久章头条 | [jztt.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiuZhangTouTiao) | 正常 | 圈X v2p |
+| 琪琪的果园 | [qqdgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QiQiDeGuoYuan) | 正常 | 圈X v2p |
+| 太太了 | [raw_scripts_ttl.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/TaiTaiLe) | 正常 | 圈X v2p |
+| 电视家 | [dsj.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DianShiJia) | 正常 | 圈X v2p |
 ## 免责声明: 
 
 * 本仓库发布的**CollectWool**项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
