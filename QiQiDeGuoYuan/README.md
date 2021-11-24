@@ -10,8 +10,6 @@
 ### 拉取
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/qqdgy.js
-OR
-ql raw https://raw.githubusercontent.com/LubooC/Script/main/QQDGY/qqdgy.js
 ```
 ### 变量
 多账户用@分开
