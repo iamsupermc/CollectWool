@@ -30,7 +30,7 @@ https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://r
 hostname = v3.sdk.haowusong.com
 ```  
   
-**[rewrite_local]**  
+**[task_local]**  
 ```
 0 * * * * https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js, tag=都爱玩, enabled=true
 ```
