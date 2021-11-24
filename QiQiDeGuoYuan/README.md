@@ -3,7 +3,7 @@
 威信小程序：琪琪的果园
 
 ## 抓包
-登录抓包后找链接：https://www.weiju123.com/  
+登录抓包后找链接**url**请求头：https://www.weiju123.com/  
 1、获取**Cookie**内容 格式：PHPSESSID=XXXX  
 2、获取**Body/JSON**内容： {"buildid":1,"hv":"1.02","aot":"AOTXXXX"} 只要aot的值
 ## 青龙使用 
