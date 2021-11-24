@@ -13,7 +13,7 @@
 ```
 export blackJSON='{"black-token":"", "token":"", "User-Agent":"", "device-value":"", "device-type":"", "phpUserId":"", "appId":""}'
 ```
-** 拉取脚本
+**拉取脚本**
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js
 ```
