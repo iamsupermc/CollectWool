@@ -3,14 +3,14 @@
 ## 仓库项目目录及说明
 | 项目名称 | 脚本       | 状态 | 食用工具 |
 | -------- | -------------- | ---------- |---------- |
-| 爱沏茶 | [aiqicha.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/AiQiCha) | 正常 | 青龙|
+| 爱沏茶 | [aiqicha.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/AiQiCha) | 正常 | 🐉|
 | 歧视卡 | [qishika.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QuanQiuGouQiShi) | 正常 | 圈X v2p|
-| 都爱完 | [daw.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DouAiWan) | 正常 | 圈X v2p 青龙|
-| 精彩看店 | [jcwz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JingCaiKanDian) | 正常 | 圈X v2p 青龙 |
+| 都爱完 | [daw.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DouAiWan) | 正常 | 圈X v2p 🐉|
+| 精彩看店 | [jcwz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JingCaiKanDian) | 正常 | 圈X v2p 🐉 |
 | 中青听歌 | [zq_music.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/ZhongQingKanDian) | 正常 | 圈X v2p |
-| 弟弟的果园 | [ddgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DiDiGuoYuan) | 正常 | 青龙 |
-| 嘉实宠粉站 | [jscfz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiaShiChongFenZhan) | 正常 | 青龙 |
-| 久章头条 | [jztt.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiuZhangTouTiao) | 正常 | 青龙 |
+| 弟弟的果园 | [ddgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DiDiGuoYuan) | 正常 | 🐉 |
+| 嘉实宠粉站 | [jscfz.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiaShiChongFenZhan) | 正常 | 🐉 |
+| 久章头条 | [jztt.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JiuZhangTouTiao) | 正常 | 🐉 |
 | 琪琪的果园 | [qqdgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QiQiDeGuoYuan) | 正常 | 🐉 |
 | 太太了 | [raw_scripts_ttl.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/TaiTaiLe) | 正常 | 🐉 |
 | 电视家 | [dsj.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DianShiJia) | 正常 | 圈X 🐉 |
