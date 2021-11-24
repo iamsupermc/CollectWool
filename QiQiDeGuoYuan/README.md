@@ -20,7 +20,7 @@ export qqck='PHPSESSID=XXXX@PHPSESSID=XXXX'
 export qqaot='AOTXXXX@AOTXXXX'
 ```
 #### 注意
-挂机后不要手动进入游戏，因为授权Cookie会失效，每次登录都需要重新抓包
+**挂机后不要手动进入游戏**，因为授权Cookie会失效，每次登录都需要重新抓包。
 
 ## 来源
 https://github.com/LubooC/Script/blob/main/QQDGY/qqdgy.js
