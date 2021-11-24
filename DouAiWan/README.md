@@ -22,7 +22,7 @@ export dawck:
 **[rewrite_local]**  
 #都爱玩  
 ```
-https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js`
+https://v3.sdk.haowusong.com/api/box/wallet/info script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DouAiWan/daw.js
 ```
   
 **[MITM]**  
