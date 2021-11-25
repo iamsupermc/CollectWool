@@ -1,0 +1,45 @@
+{
+  "name": "晶彩看点定时任务订阅",
+  "desc": "无",
+  "date": "2021-11-25 14:46",
+  "author": "CollectWoolTeam,
+  "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiTianQi/jctq_cron.json",
+  "list": [
+        {
+            "name": "晶彩天气看看赚",
+            "type": "cron",
+            "time": "30 9,20 * * *",
+            "job": {
+                "type": "runjs",
+                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_kkz.js"
+            }
+        },
+        {
+            "name": "晶彩天气文章视频",
+            "type": "cron",
+            "time": "20 7,18 * * *",
+            "job": {
+                "type": "runjs",
+                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_read.js"
+            }
+        },
+        {
+            "name": "晶彩天气日常任务",
+            "type": "cron",
+            "time": "15,45 * * * *",
+            "job": {
+                "type": "runjs",
+                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_daily.js"
+            }
+        },
+        {
+            "name": "晶彩天气任务签到",
+            "type": "cron",
+            "time": "30 22 * * *",
+            "job": {
+                "type": "runjs",
+                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_reward.js"
+            }
+        }
+    ]
+}
