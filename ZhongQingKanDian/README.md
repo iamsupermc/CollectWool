@@ -10,5 +10,6 @@ https://kandian.wkandian.com/V17/Ximalaya/setCompleteSec.json script-request-hea
 
 ### 源脚本
  https://raw.githubusercontent.com/liuqi6968/-/main/zq_music.js (钟情AIpapa-去赚钱-收听音频)
+ https://raw.githubusercontent.com/liuqi6968/-/main/zq_fbjl.js
 ### 致谢
 [liuqi6968](https://github.com/liuqi6968)
