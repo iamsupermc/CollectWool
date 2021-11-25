@@ -1,7 +1,6 @@
 /*
 软件名称：晶彩看点
 [rewrite_local]
-
 #晶彩看点每日收益查询
 https://ant.xunsl.com/v17/NewTask/getTaskList.json 重写目标 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jc_today_score.js
 [MITM]
@@ -56,10 +55,11 @@ if (!jc_cookie) {
              cookie = bodyVal.replace(/zqkey=/, "cookie=")
              cookie_id = cookie.replace(/zqkey_id=/, "cookie_id=")
              jc_cookie1 = cookie_id + '&' + bodyVal
+             jc_cookie2 = 'uid='+jc_cookieArr[k].split('&uid=')[1] + '&'+ bodyVal
              //待处理cookie
              console.log(`${jc_cookie1}`)
              console.log(`--------第 ${k + 1} 个账号收益查询中--------\n`)
-             await today_score(jc_cookie1)
+             await nickname(jc_cookie2)
              if ($.message.length != 0) {
                  message += "账号" + (k + 1) + "：  " + $.message + " \n"
              }
@@ -79,8 +79,36 @@ if (!jc_cookie) {
     .catch((e) => $.logErr(e))
     .finally(() => $.done())
 
+function nickname(jc_cookie2,timeout = 0) {
+    return new Promise((resolve) => {
+        let url = {
+            url : 'https://ant.xunsl.com/v17/NewTask/getSign.json?'+ jc_cookie2,
+            headers : {
+    'Host': 'ant.xunsl.com'
+},
+            }
+        $.get(url, async (err, resp, data) => {
+            try {
 
-function today_score(jc_cookie1,timeout = 0) {
+                const result = JSON.parse(data)
+                if(result.success == true){
+                    console.log('\n昵称:'+result.items.user.nickname)
+                    nickname1 =result.items.user.nickname
+                    await $.wait(1000);
+                    await today_score(jc_cookie1,nickname1)
+
+
+                }else{
+                     console.log(result)
+                }
+            } catch (e) {
+            } finally {
+                resolve()
+            }
+            },timeout)
+    })
+}
+function today_score(jc_cookie1,nickname1,timeout = 0) {
     return new Promise((resolve) => {
         let url = {
             url : 'https://ant.xunsl.com/wap/user/balance?'+ jc_cookie1,
@@ -96,8 +124,8 @@ function today_score(jc_cookie1,timeout = 0) {
                     console.log('\n今日收益总计:'+result.user.today_score)
                     console.log('\n当前金币总数:'+result.user.score)
                     console.log('\n折合人民币总数:'+result.user.money)
-                    $.message = `今日收益总计:${result.user.today_score}金币\n 当前金币总数:${result.user.score} \n 折合人民币总数:${result.user.money}元`
-                    $.msg($.name, "", `今日收益总计:${result.user.today_score}金币\n 当前金币总数:${result.user.score} \n 折合人民币总数:${result.user.money}元`);
+                    $.message = `昵称:${nickname1}\n今日收益总计:${result.user.today_score}金币\n 当前金币总数:${result.user.score} \n 折合人民币总数:${result.user.money}元`
+                    //$.msg($.name, "", `今日收益总计:${result.user.today_score}金币\n 当前金币总数:${result.user.score} \n 折合人民币总数:${result.user.money}元`);
                 }else{
                      console.log(result)
                 }
