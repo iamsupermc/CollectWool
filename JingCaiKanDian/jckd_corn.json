@@ -103,6 +103,16 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jc_today_score.js"
       }
+    },
+    {
+      "name": "晶彩5_60宝箱",
+      "type": "cron",
+      "time": ". 23 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jc_5_60.js"
+      }
     }
   ]
 }
